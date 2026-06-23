@@ -1,4 +1,4 @@
 language: generic
 
 script:
-  - echo "Travis CI funcionando correctamente"
+  - echo "Travis CI funcionando correctamente CI"
