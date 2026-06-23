@@ -10,7 +10,7 @@ jobs:
 
       - run:
           name: Prueba CircleCI
-          command: echo "CircleCI funcionando correctamente"
+          command: echo "CircleCI funcionando correctamente, integracion exitosa"
 
 workflows:
   build_test:
